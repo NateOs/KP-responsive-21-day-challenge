@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
 * {
 	box-sizing: border-box;
 }
@@ -29,7 +30,7 @@ p {
 }
 
 .left-column {
-	width: 50%;
+	width: 60%;
 }
 .left-column>* {
 margin-bottom: 4rem;
@@ -41,7 +42,7 @@ margin-bottom: 4rem;
 
 .cta {
 	border-radius: 30px;
-	padding:1.5em 2.2em ;
+	padding:1em 2.2em ;
 	font-family: Roboto;
 	background:#38CFD9;
 	border: solid 1px  #38CFD9;
